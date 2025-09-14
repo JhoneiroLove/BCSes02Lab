@@ -9,7 +9,7 @@ pragma solidity >=0.8.2 <0.9.0;
  */
 contract Storage {
 
-    uint256 number; // comentario de jhoneiro
+    uint256 number; // comentario de jhoneiro v2
 
     /**
      * @dev Store value in variable
